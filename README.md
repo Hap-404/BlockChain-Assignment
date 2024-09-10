@@ -10,7 +10,7 @@ git clone https://github.com/Hap-404/BlockChain-Assignment.git
 ```
 Step 2 : Open the any assignment given in separate folder.<br/>Foreg: We want to open Assignment 1 then,
 ```
- cd '.\Assignmment - 1\'
+ cd Assignmment - 1
 ```
 
 Step 3 : run below command in you terminal.
