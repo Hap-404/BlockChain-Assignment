@@ -1,7 +1,7 @@
 # BlockChain-Assignment
 A Repository that holds all of my college's blockchain assignments along with their solutions 
 
-#To Clone the Repository:
+# To Clone the Repository:
 
 Step 1 : Clone the repository
 
@@ -12,7 +12,6 @@ Step 2 : Open the any assignment given in separate folder.
 Foreg: We want to open Assignment 1 then,
 ```
  cd '.\Assignmment - 1\'
-
 ```
 
 Step 3 : run below command in you terminal.
